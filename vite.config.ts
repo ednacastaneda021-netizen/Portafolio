@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Portafolio/',
+  base: '/Portafolio-final-2-/',
   plugins: [react()],
 })
